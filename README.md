@@ -148,7 +148,7 @@ mpirun --bind-to socket ./my_advection 4000 1.0 1.0 0 16 2 2
 
 ## Visualization
 
-![Simulation](/final/simulation/efficient_simulation_results.gif)
+![Simulation](/src/simulation/efficient_simulation_results.gif)
 
 
 ---
