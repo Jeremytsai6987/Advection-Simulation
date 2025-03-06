@@ -1,0 +1,9 @@
+Simulation parameters:
+  Grid size (N): 4000
+  Physical length (L): 1.000000
+  Total simulation time (T): 1.000000
+  Method: 0
+  Threads: 32
+  Dimensions: 2 x 2
+Rank 0: Top=2, Bottom=2, Left=1, Right=1
+Rank 1: Top=3, Bottom=3, Left=0, Right=0

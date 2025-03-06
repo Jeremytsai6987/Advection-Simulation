@@ -1,0 +1,9 @@
+[midway3-0203:2251310] *** An error occurred in MPI_Sendrecv
+[midway3-0203:2251310] *** reported by process [896270337,1]
+[midway3-0203:2251310] *** on communicator MPI_COMM_WORLD
+[midway3-0203:2251310] *** MPI_ERR_RANK: invalid rank
+[midway3-0203:2251310] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[midway3-0203:2251310] ***    and potentially your MPI job)
+[midway3-0166.rcc.local:1486159] PMIX ERROR: UNREACHABLE in file server/pmix_server.c at line 2198
+[midway3-0166.rcc.local:1486159] 1 more process has sent help message help-mpi-errors.txt / mpi_errors_are_fatal
+[midway3-0166.rcc.local:1486159] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
